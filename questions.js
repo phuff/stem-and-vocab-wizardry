@@ -1,5 +1,133 @@
 var flashcards = 
     {
+        "Lesson 12": [
+    {
+        "answer": "adage", 
+        "question": "The traditional saying widely considered to wise and true\n"
+    }, 
+    {
+        "answer": "alliteration", 
+        "question": "Repetition of sounds, usually of consonants, especially at the beginning of words\n"
+    }, 
+    {
+        "answer": "allusion", 
+        "question": "An indirect reference to something\n"
+    }, 
+    {
+        "answer": "anthology", 
+        "question": "A collections of writing by various authors\n"
+    }, 
+    {
+        "answer": "epic", 
+        "question": "a.  A long poem or other literary work about heroes and their adventures\nb.  Grand or impressive in quality, size, or scope\n"
+    }, 
+    {
+        "answer": "hyperbole", 
+        "question": "A extreme exaggeration\n"
+    }, 
+    {
+        "answer": "melodramatic", 
+        "question": "Overly emotional or sentimental\n"
+    }, 
+    {
+        "answer": "personify", 
+        "question": "a.  To represent an animal, object, or ideas as having human qualities\nb.  To be the perfect example of a certain quality or idea\n"
+    }, 
+    {
+        "answer": "pseudonym", 
+        "question": "A fake name used by an author, a pen name\n"
+    }, 
+    {
+        "answer": "serialized", 
+        "question": "Presented in parts; presented in a sequence\n"
+    }
+],
+        "Lesson 11": [
+    {
+        "answer": "arboretum", 
+        "question": "A park where trees and shrubs are displayed and studied\\n"
+    }, 
+    {
+        "answer": "aviary", 
+        "question": "A large cage or building for holding birds\\n"
+    }, 
+    {
+        "answer": "botany", 
+        "question": "The scientific study of plants\\n"
+    }, 
+    {
+        "answer": "chameleon", 
+        "question": "A type of lizard that changes color\\n"
+    }, 
+    {
+        "answer": "cultivate", 
+        "question": "a.  To grow crops; to prepare soil for growing crops\\nb.  To encourage the development of a friendship or an interest\\n"
+    }, 
+    {
+        "answer": "habitat", 
+        "question": "The environment a plant or an animal normally lives in\\n"
+    }, 
+    {
+        "answer": "nurture", 
+        "question": "To help to grow and develop; to take care of\\n"
+    }, 
+    {
+        "answer": "talon", 
+        "question": "The claw of a bird of prey, such as a hawk or an eagle\\n"
+    }, 
+    {
+        "answer": "terrarium", 
+        "question": "A clear container housing plants and small land animals\\n"
+    }, 
+    {
+        "answer": "zoology", 
+        "question": "The scientific study of animals\\n"
+    }
+]
+phuff@roo:~/Documents/projects/stem-and-vocab-wizardry$ python turn_vocab_into_json.py lesson_11.txt
+[
+    {
+        "answer": "arboretum", 
+        "question": "A park where trees and shrubs are displayed and studied\n"
+    }, 
+    {
+        "answer": "aviary", 
+        "question": "A large cage or building for holding birds\n"
+    }, 
+    {
+        "answer": "botany", 
+        "question": "The scientific study of plants\n"
+    }, 
+    {
+        "answer": "chameleon", 
+        "question": "A type of lizard that changes color\n"
+    }, 
+    {
+        "answer": "cultivate", 
+        "question": "a.  To grow crops; to prepare soil for growing crops\nb.  To encourage the development of a friendship or an interest\n"
+    }, 
+    {
+        "answer": "habitat", 
+        "question": "The environment a plant or an animal normally lives in\n"
+    }, 
+    {
+        "answer": "nurture", 
+        "question": "To help to grow and develop; to take care of\n"
+    }, 
+    {
+        "answer": "talon", 
+        "question": "The claw of a bird of prey, such as a hawk or an eagle\n"
+    }, 
+    {
+        "answer": "terrarium", 
+        "question": "A clear container housing plants and small land animals\n"
+    }, 
+    {
+        "answer": "zoology", 
+        "question": "The scientific study of animals\n"
+    }
+],
+        "Unit 4 Stems": [{"answer": "shape", "question": "Stem: morph\n\nExamples: amorphous, morphology, polymorphously, mesopmorph, protomorphic\n\nOrigin: Greek\n"}, {"answer": "clothes", "question": "Stem: vest\n\nExamples: vestry, vestment, vestibule, investiture, divest, divesture\n\nOrigin: Latin\n"}, {"answer": "good", "question": "Stem: bene\n\nExamples: benefit, benevolent, beneficial, benediction, benefactor, benign\n\nOrigin: Latin\n"}, {"answer": "weight", "question": "Stem: pond\n\nExamples: ponderous, ponder, preponderant, pound, imponderable, compound\n\nOrigin: Latin\n"}, {"answer": "body", "question": "Stem: corp\n\nExamples: corpulent, corporation, corporeal, corporal, corpse, corpuscle\n\nOrigin: Latin\n"}, {"answer": "sleep", "question": "Stem: dorm\n\nExamples: dormitory, dormant, dormer, dormancy, dormitive, dormient\n\nOrigin: Latin\n"}, {"answer": "father", "question": "Stem: pater\n\nExamples: paternalistic, patronize, paternity, patriarch, expatriate, paterfamilias\n\nOrigin: Latin\n"}, {"answer": "new", "question": "Stem: nov\n\nExamples: novel, nova, novice, novitiate, Nova Scotia, innovation, renovate\n\nOrigin: Latin\n"}, {"answer": "point", "question": "Stem: punct\n\nExamples: punctuate, punctilious, puncture, punctual, acupuncture, contapuntal\n\nOrigin: Latin\n"}, {"answer": "throw", "question": "Stem: ject\n\nExamples: eject, reject, conjecture, dejected, inject, subject, projection, interject\n\nOrigin: Latin\n"}, {"answer": "opinion", "question": "Stem: dox\n\nExamples: orthodox, heterodox, doxology, indoctrinate, paradox\n\nOrigin: Greek\n"}, {"answer": "Act or state", "question": "Stem: tion\n\nExamples: completion, reaction, devastation, production, creation, transition\n\nOrigin: Latin\n"}, {"answer": "place", "question": "Stem: loco\n\nExamples: locomotive, location, local, locus, relocate, dislocate, localize, locomotor\n\nOrigin: Latin\n"}, {"answer": "both", "question": "Stem: amphi\n\nExamples: amphibious, amphitheater, amphibian, amphigory, amphibolous\n\nOrigin: Greek\n"}, {"answer": "great", "question": "Stem: magn\n\nExamples: Magna Carta, magnanimous, magnate, magnificent, magnum opus\n\nOrigin: Latin\n"}, {"answer": "good", "question": "Stem: eu\n\nExamples: Eucharist, euphony, eulogy, euphemism, eugenics, euglena\n\nOrigin: Greek\n"}, {"answer": "within", "question": "Stem: endo\n\nExamples: endoplasm, endocrine, endogamous, endoskeleton, endothermic\n\nOrigin: Greek\n"}, {"answer": "fear", "question": "Stem: phobia\n\nExamples: claustrophobia, acrophobia, xenophobia, agoraphobia, hydrophobia\n\nOrigin: Greek\n"}, {"answer": "straight", "question": "Stem: ortho\n\nExamples: orthopedics, orthodontis, orthodox, orthography, orthogonal\n\nOrigin: Greek\n"}, {"answer": "think", "question": "Stem: put\n\nExamples: reputation, putative, impute, dispute, computer, disreputable\n\nOrigin: Latin\n"}, {"answer": "true", "question": "Stem: ver\n\nExamples: verify, veracity, veritable, verdict, verisimilitude, aver, cinema verite\n\nOrigin: Latin\n"}, {"answer": "mother", "question": "Stem: matri\n\nExamples: matricide, matron, matriarch, matrimony, matrilineal\n\nOrigin: Latin\n"}, {"answer": "large", "question": "Stem: mega\n\nExamples: megalith, megaphone, megalomania, megalopolis, megahertz, megaton\n\nOrigin: Greek\n"}, {"answer": "people", "question": "Stem: pop\n\nExamples: popular, populist, populate, population, popularize, populous\n\nOrigin: Latin\n"}, {"answer": "blood", "question": "Stem: sangui\n\nExamples: sanguinary, sanguine, consanguinity, sangfroid, sangria\n\nOrigin: Latin\n"}],
 "Lesson Ten":
 [{"answer": "aesthetic",
 "question": "a.  A standard of artistic beauty\nb.  Referring to artistic beauty or the appreciation of good taste"},
