@@ -1,5 +1,193 @@
 var flashcards = 
     {
+"Lesson 16":
+[
+    {
+        "answer": "chic", 
+        "question": "Stylish, fashionable\n"
+    }, 
+    {
+        "answer": "debonair", 
+        "question": "Charming in a friendly but sophisticated way\n"
+    }, 
+    {
+        "answer": "disheveled", 
+        "question": "Messy; untidy in personal appearance\n"
+    }, 
+    {
+        "answer": "dowdy", 
+        "question": "Having an old-fashioned appearance; shabby and out of style\n"
+    }, 
+    {
+        "answer": "drab", 
+        "question": "Having a faded, dull appearance\n"
+    }, 
+    {
+        "answer": "garb", 
+        "question": "a.  Clothing for a particular job or occasion\nb.  To dress in a particular way\n"
+    }, 
+    {
+        "answer": "ostentatious", 
+        "question": "Showy; meant to impress others\n"
+    }, 
+    {
+        "answer": "rumple", 
+        "question": "To wrinkle or crease\n"
+    }, 
+    {
+        "answer": "unsightly", 
+        "question": "Unpleasant to look at\n"
+    }, 
+    {
+        "answer": "veneer", 
+        "question": "a.  A thin, usually decorative layer of fine material glued onto an inferior material\nb.  An appearance giving a false, positive impression\n"
+    }
+],
+"Lesson 15":
+[
+    {
+        "answer": "alliance", 
+        "question": "A close association or relationship based on shared needs or interest\n"
+    }, 
+    {
+        "answer": "collaborate", 
+        "question": "a.  To work together on an intellectual or creative pursuit\nb.  To cooperate with an enemy invader\n"
+    }, 
+    {
+        "answer": "colleague", 
+        "question": "A member of the same staff or profession; an associate\n"
+    }, 
+    {
+        "answer": "conspire", 
+        "question": "TO plan together secretly\n"
+    }, 
+    {
+        "answer": "federation", 
+        "question": "A formal association containing many individual groups or countries\n"
+    }, 
+    {
+        "answer": "harmonious", 
+        "question": "Peaceful, pleasing, or appropriate when together or combined\n"
+    }, 
+    {
+        "answer": "interact", 
+        "question": "To act on or affect each other\n"
+    }, 
+    {
+        "answer": "populace", 
+        "question": "The general public; the population\n"
+    }, 
+    {
+        "answer": "unanimous", 
+        "question": "In complete agreement; sharing the same opinion or view\n"
+    }, 
+    {
+        "answer": "uniform", 
+        "question": "Always the same; not varying\n"
+    }
+],
+        "Unit 5": [
+    {
+        "answer": "life\n", 
+        "question": "Stem: vita\n\nExamples: vitamin, vitality, vital, revitalize, viable, vitalism, devitalize\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "people\n", 
+        "question": "Stem: demo\n\nExamples: democracy, demography, undemocratic, democratize\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "solid\n", 
+        "question": "Stem: stereo\n\nExamples: stereoscope, stereophonic, stereotype, stereopticon, stereotropism\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "doctrine\n", 
+        "question": "Stem: ism\n\nExamples: Marxism, capitalism, Imagism, Cubism, nihilism, pluralism, tribalism\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "know\n", 
+        "question": "Stem: cogn\n\nExamples: recognize, cognizant, incognito, cognoscenti, cognomen, precognition\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "over\n", 
+        "question": "Stem: sur\n\nExamples: surplus, surpass, surcharge, surface, surfeit, surmount, surname, surtax\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "other\n", 
+        "question": "Stem: alter\n\nExamples: alternator, alteration, alter ego, alternative, altruism, altercation\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "star\n", 
+        "question": "Stem: astr\n\nExamples: astronomy, astrology, asteroid, disaster, asterisk, astrophysics, astrolabe\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "power\n", 
+        "question": "Stem: dyna\n\nExamples: dynamic, dynamo, dynamite, dynasty, dynamometer\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "time\n", 
+        "question": "Stem: chron\n\nExamples: chronometer, chronological, synchronize, chronic, anachronism\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "over\n", 
+        "question": "Stem: hyper\n\nExamples: hyperactive, hyperventilate, hyperbole, hyperacidity, hypertension\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "moon\n", 
+        "question": "Stem: luna\n\nExamples: lunar, lunatic, lunate, luna moth, lunette, sublunar, lunular\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "eight\n", 
+        "question": "Stem: octa\n\nExamples: octameter, octogenarian, octagon, octarchy, octave, octopus, octahedron\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "turn\n", 
+        "question": "Stem: gyro\n\nExamples: gyration, gyroscope, gyre, gyrate, spirogyra, gyromagnetic, gyrocomass\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "against\n", 
+        "question": "Stem: contra\n\nExamples: contradict, contrary, contrast, contrapuntal, contraband, contravene\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "earth\n", 
+        "question": "Stem: geo\n\nExamples: geography, geothermal, geology, geophysics, geometry, geosynchronous\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "sun\n", 
+        "question": "Stem: helio\n\nExamples: Helios, heliotropic, heliocentric, heliograph, perihelion, aphelion\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "heat\n", 
+        "question": "Stem: thermo\n\nExamples: thermostat, thermos, thermotropic, thermonuclear, thermocouple\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "four\n", 
+        "question": "Stem: tetra\n\nExamples: tetrameter, tetrahedron, tetroxide, tetragon, tetrachloride, tetracycline\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "measure\n", 
+        "question": "Stem: meter\n\nExamples: thermometer, millimeter, octometer, hydrometer, odometer\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "look\n", 
+        "question": "Stem: scope\n\nExamples: telescope, microscope, periscope, radarscope, horoscope, electroscope\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "sound\n", 
+        "question": "Stem: son\n\nExamples: sonar, unison, sonorous, sonnet, dissonance, resonant, supersonic\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "ten\n", 
+        "question": "Stem: dec\n\nExamples: decade, decaliter, decimal, decagon, decathalon, decimate, dodecahedron\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "star\n", 
+        "question": "Stem: stell\n\nExamples: interstellar, stelliform, stellar, constellation, stellate, stellify\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "love\n", 
+        "question": "Stem: amat\n\nExamples: amatory, amateur, amorous, amigo, amiable, amity, amour\n\nOrigin: Latin\n\n"
+    }
+],
         "Lesson 12": [
     {
         "answer": "adage", 
@@ -82,49 +270,6 @@ var flashcards =
     {
         "answer": "zoology", 
         "question": "The scientific study of animals\\n"
-    }
-]
-phuff@roo:~/Documents/projects/stem-and-vocab-wizardry$ python turn_vocab_into_json.py lesson_11.txt
-[
-    {
-        "answer": "arboretum", 
-        "question": "A park where trees and shrubs are displayed and studied\n"
-    }, 
-    {
-        "answer": "aviary", 
-        "question": "A large cage or building for holding birds\n"
-    }, 
-    {
-        "answer": "botany", 
-        "question": "The scientific study of plants\n"
-    }, 
-    {
-        "answer": "chameleon", 
-        "question": "A type of lizard that changes color\n"
-    }, 
-    {
-        "answer": "cultivate", 
-        "question": "a.  To grow crops; to prepare soil for growing crops\nb.  To encourage the development of a friendship or an interest\n"
-    }, 
-    {
-        "answer": "habitat", 
-        "question": "The environment a plant or an animal normally lives in\n"
-    }, 
-    {
-        "answer": "nurture", 
-        "question": "To help to grow and develop; to take care of\n"
-    }, 
-    {
-        "answer": "talon", 
-        "question": "The claw of a bird of prey, such as a hawk or an eagle\n"
-    }, 
-    {
-        "answer": "terrarium", 
-        "question": "A clear container housing plants and small land animals\n"
-    }, 
-    {
-        "answer": "zoology", 
-        "question": "The scientific study of animals\n"
     }
 ],
         "Unit 4 Stems": [{"answer": "shape", "question": "Stem: morph\n\nExamples: amorphous, morphology, polymorphously, mesopmorph, protomorphic\n\nOrigin: Greek\n"}, {"answer": "clothes", "question": "Stem: vest\n\nExamples: vestry, vestment, vestibule, investiture, divest, divesture\n\nOrigin: Latin\n"}, {"answer": "good", "question": "Stem: bene\n\nExamples: benefit, benevolent, beneficial, benediction, benefactor, benign\n\nOrigin: Latin\n"}, {"answer": "weight", "question": "Stem: pond\n\nExamples: ponderous, ponder, preponderant, pound, imponderable, compound\n\nOrigin: Latin\n"}, {"answer": "body", "question": "Stem: corp\n\nExamples: corpulent, corporation, corporeal, corporal, corpse, corpuscle\n\nOrigin: Latin\n"}, {"answer": "sleep", "question": "Stem: dorm\n\nExamples: dormitory, dormant, dormer, dormancy, dormitive, dormient\n\nOrigin: Latin\n"}, {"answer": "father", "question": "Stem: pater\n\nExamples: paternalistic, patronize, paternity, patriarch, expatriate, paterfamilias\n\nOrigin: Latin\n"}, {"answer": "new", "question": "Stem: nov\n\nExamples: novel, nova, novice, novitiate, Nova Scotia, innovation, renovate\n\nOrigin: Latin\n"}, {"answer": "point", "question": "Stem: punct\n\nExamples: punctuate, punctilious, puncture, punctual, acupuncture, contapuntal\n\nOrigin: Latin\n"}, {"answer": "throw", "question": "Stem: ject\n\nExamples: eject, reject, conjecture, dejected, inject, subject, projection, interject\n\nOrigin: Latin\n"}, {"answer": "opinion", "question": "Stem: dox\n\nExamples: orthodox, heterodox, doxology, indoctrinate, paradox\n\nOrigin: Greek\n"}, {"answer": "Act or state", "question": "Stem: tion\n\nExamples: completion, reaction, devastation, production, creation, transition\n\nOrigin: Latin\n"}, {"answer": "place", "question": "Stem: loco\n\nExamples: locomotive, location, local, locus, relocate, dislocate, localize, locomotor\n\nOrigin: Latin\n"}, {"answer": "both", "question": "Stem: amphi\n\nExamples: amphibious, amphitheater, amphibian, amphigory, amphibolous\n\nOrigin: Greek\n"}, {"answer": "great", "question": "Stem: magn\n\nExamples: Magna Carta, magnanimous, magnate, magnificent, magnum opus\n\nOrigin: Latin\n"}, {"answer": "good", "question": "Stem: eu\n\nExamples: Eucharist, euphony, eulogy, euphemism, eugenics, euglena\n\nOrigin: Greek\n"}, {"answer": "within", "question": "Stem: endo\n\nExamples: endoplasm, endocrine, endogamous, endoskeleton, endothermic\n\nOrigin: Greek\n"}, {"answer": "fear", "question": "Stem: phobia\n\nExamples: claustrophobia, acrophobia, xenophobia, agoraphobia, hydrophobia\n\nOrigin: Greek\n"}, {"answer": "straight", "question": "Stem: ortho\n\nExamples: orthopedics, orthodontis, orthodox, orthography, orthogonal\n\nOrigin: Greek\n"}, {"answer": "think", "question": "Stem: put\n\nExamples: reputation, putative, impute, dispute, computer, disreputable\n\nOrigin: Latin\n"}, {"answer": "true", "question": "Stem: ver\n\nExamples: verify, veracity, veritable, verdict, verisimilitude, aver, cinema verite\n\nOrigin: Latin\n"}, {"answer": "mother", "question": "Stem: matri\n\nExamples: matricide, matron, matriarch, matrimony, matrilineal\n\nOrigin: Latin\n"}, {"answer": "large", "question": "Stem: mega\n\nExamples: megalith, megaphone, megalomania, megalopolis, megahertz, megaton\n\nOrigin: Greek\n"}, {"answer": "people", "question": "Stem: pop\n\nExamples: popular, populist, populate, population, popularize, populous\n\nOrigin: Latin\n"}, {"answer": "blood", "question": "Stem: sangui\n\nExamples: sanguinary, sanguine, consanguinity, sangfroid, sangria\n\nOrigin: Latin\n"}],
