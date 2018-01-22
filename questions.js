@@ -1,5 +1,194 @@
 var flashcards = 
     {
+"Lesson 18":
+[
+    {
+        "answer": "belittle", 
+        "question": "To make a person or thing seem unimportant or without value\n"
+    }, 
+    {
+        "answer": "envelop", 
+        "question": "To wrap within; to surround entirely\n"
+    }, 
+    {
+        "answer": "exploit", 
+        "question": "a.  To use to the greatest possible advantage\nb.  To make use of selfishly and unfairly\nc.  An exciting or a heroic adventure or deed\n"
+    }, 
+    {
+        "answer": "facilitate", 
+        "question": "To make easier or to help along; to assist\n"
+    }, 
+    {
+        "answer": "forsake", 
+        "question": "To make worse; to damage\n"
+    }, 
+    {
+        "answer": "impair", 
+        "question": "To change or adjust; to alter\n"
+    }, 
+    {
+        "answer": "inflict", 
+        "question": "To cause pain; to do something unpleasant or punishing\n"
+    }, 
+    {
+        "answer": "inhumane", 
+        "question": "Brutal; cruel; lacking kindness and pity\n"
+    }, 
+    {
+        "answer": "rehabilitate", 
+        "question": "To restore to a healthy or good condition\n"
+    }, 
+    {
+        "answer": "rejuvenate", 
+        "question": "To make young or vigorous again\n"
+    }
+],
+"Lesson 17":
+[
+    {
+        "answer": "agile", 
+        "question": "a.  Able to move quickly and easily\nb.  Mentally alert; sharp\n"
+    }, 
+    {
+        "answer": "dawdle", 
+        "question": "To take more time than necessary; to move slowly\n"
+    }, 
+    {
+        "answer": "distort", 
+        "question": "a.  To change something so as to make it less true; to misrepresent\nb.  To twist out of the usual shape\n"
+    }, 
+    {
+        "answer": "itinerary", 
+        "question": "The route for a journey\n"
+    }, 
+    {
+        "answer": "mobilize", 
+        "question": "a.  To prepare or to organize for a purpose\nb.  To prepare for a fight or for war\n"
+    }, 
+    {
+        "answer": "modify", 
+        "question": "To change or adjust; to alter\n"
+    }, 
+    {
+        "answer": "quiver", 
+        "question": "To tremble or shake\n"
+    }, 
+    {
+        "answer": "recede", 
+        "question": "To go back; to retreat; to move away\n"
+    }, 
+    {
+        "answer": "supplant", 
+        "question": "To replace\n"
+    }, 
+    {
+        "answer": "traverse", 
+        "question": "To travel or pass across; over, or through\n"
+    }
+],
+"Unit 6":
+[
+    {
+        "answer": "vital or related\n", 
+        "question": "Stem: germ\n\nExamples: germane, germinate, germicide, germinal, germ\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "group\n", 
+        "question": "Stem: greg\n\nExamples: gregarious, egregious, gregariously, segregate, congregate, aggregate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "sea\n", 
+        "question": "Stem: mar\n\nExamples: marine, marina, ultramarine, maritime, mariner, marinate, submarine\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "first\n", 
+        "question": "Stem: prim\n\nExamples: prime, primary, primate, primogeniture, primeval, prima donna, primo\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "fire\n", 
+        "question": "Stem: pyro\n\nExamples: pyre, pyromania, pyrotechnic, pyrophobia, pyrometer\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "cry out\n", 
+        "question": "Stem: clam\n\nExamples: clamorous, exclamation, clamor, exclamatory, clamant, declaim\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "more\n", 
+        "question": "Stem: plu\n\nExamples: plural, plurality, plus, pluralize, pluriaxial, pluralism, nonplussed\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "touch\n", 
+        "question": "Stem: tang\n\nExamples: tangible, tangent, tangle, tangential, cotangent, intangible\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "bind\n", 
+        "question": "Stem: string\n\nExamples: stringent, stringy, astringent, stringer\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "free\n", 
+        "question": "Stem: liber\n\nExamples: liberate, liberty, liberal, libertine, deliberate, libertarian\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "join\n", 
+        "question": "Stem: junct\n\nExamples: junction, conjunction, juncture, disjunct, injunction, adjunct\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "close\n", 
+        "question": "Stem: clud\n\nExamples: exclude, include, preclude, exclusive, occlude, conclude, cloister\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "light\n", 
+        "question": "Stem: luc\n\nExamples: lucid, translucent, lucidity, pellucid, elucidate, lucent\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "spart\n", 
+        "question": "Stem: se\n\nExamples: secede, secret, sedition, seduce, segregate, select, separate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "pay\n", 
+        "question": "Stem: trib\n\nExamples: tribute, tributary, retribution, contribution, attribute, diatribe, distribute\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "worthy\n", 
+        "question": "Stem: dign\n\nExamples: dignify, dignity, condign, dignitary, undignified, indignation\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "break\n", 
+        "question": "Stem: rupt\n\nExamples: erupt, disrupt, rupture, corrupt, abrupt, incorruptible\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "pleasing\n", 
+        "question": "Stem: grat\n\nExamples: gratifying, gratitude, ingrate, grateful, gratuitous, ingratiate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "middle\n", 
+        "question": "Stem: medi\n\nExamples: median, mediate, medium, mediocre, Mediterranean\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "wisdom\n", 
+        "question": "Stem: soph\n\nExamples: sophomore, sophisticated, sophist, philosophy, pansophy, theosophy\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "run\n", 
+        "question": "Stem: curr\n\nExamples: current, undercurrent, currently, recurrent, currency, incur\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "time\n", 
+        "question": "Stem: tempor\n\nExamples: temporal, contemporary, temporize, temporarily\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "wander\n", 
+        "question": "Stem: migr\n\nExamples: migrate, transmigration, migrant, migratory, emigrant, immigrant\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "across\n", 
+        "question": "Stem: trans\n\nExamples: transfer, translate, transmit, transfusion, translucent, transcend\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "marriage\n", 
+        "question": "Stem: gamy\n\nExamples: monogamy, polygamy, bigamy, gamete, autogamous, exogamy\n\nOrigin: Greek\n\n"
+    }
+],
 "Lesson 16":
 [
     {
