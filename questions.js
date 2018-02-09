@@ -1,5 +1,108 @@
 var flashcards = 
     {
+"Unit 7":
+[
+    {
+        "answer": "number\n", 
+        "question": "Stem: numer\n\nExamples: enumerate, numeral, numerous, supernumeraries, numerology\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "strong\n", 
+        "question": "Stem: fort\n\nExamples: fortitude, fort, fortify, fortification, comfort, forte, fortissimo, pianoforte\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "bone\n", 
+        "question": "Stem: osteo\n\nExamples: osteopath, osteology, osteopathy, osteoblast, osteocyte, osteotomy\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "bird\n", 
+        "question": "Stem: ornith\n\nExamples: ornithology, ornithologist, ornithopter, ornithomancy, ornithosis\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "city\n", 
+        "question": "Stem: polis\n\nExamples: metropolis, megalopolis, police, polite, policy, acropolis, necropolis\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "pour\n", 
+        "question": "Stem: fus\n\nExamples: transfusion, infusion, refuse, fusillade, fusion, infuse, confusion\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "I\n", 
+        "question": "Stem: ego\n\nExamples: egomaniac, egocentric, egotistical, egotist, egotize, egoism, alter ego\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "breathe\n", 
+        "question": "Stem: spir\n\nExamples: inspire, respiration, perspiration, expire, spirit, aspire, conspire\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "across\n", 
+        "question": "Stem: dia\n\nExamples: diagonal, diameter, dialogue, dialect, diatribe, diaphanous, dialectic\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "sharp\n", 
+        "question": "Stem: acr\n\nExamples: acrimonious, acerbity, acrid, acridine, acrimony, acerate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "high, point or tip\n", 
+        "question": "Stem: acro\n\nExamples: acrobrat, acronym, acropolis, acrophobia, acromegaly, acrocarpous\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "blame\n", 
+        "question": "Stem: culp\n\nExamples: culprit, culpable, exculpate, inculpate, exculpatory\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "skin\n", 
+        "question": "Stem: derm\n\nExamples: dermatologist, dermatitis, pachyderm, hypodermic, ectoderm, endoderm\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "animal\n", 
+        "question": "Stem: zo\n\nExamples: zoo, protozoa, zoophilous, zooplankton, zoophagous, Mesozoic, zodiac\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "through\n", 
+        "question": "Stem: per\n\nExamples: perception, perforation, percolate, perambulate, peregrination\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "peace\n", 
+        "question": "Stem: pac\n\nExamples: pacify, pacific, pacifist, pacifier, pacifism, Pax Romana, pacification\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "short\n", 
+        "question": "Stem: brev\n\nExamples: brevity, abbreviation, breve, breviary, brief\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "death\n", 
+        "question": "Stem: necro\n\nExamples: necropolis, necromancer, necrophobia, necrotic, necrobiosis\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "city\n", 
+        "question": "Stem: urb\n\nExamples: urban, urbane, suburbs, urbanite, urbanologist, urbanism\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "fight\n", 
+        "question": "Stem: pugn\n\nExamples: pugnacious, repugnant, pugilist, impugn, oppugn, inexpugnable\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "outer\n", 
+        "question": "Stem: ecto\n\nExamples: ectoderm, ectozoa, ectomorph, ectothermic, ectoplasm, ectoparasite\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "molded\n", 
+        "question": "Stem: plasto\n\nExamples: plastic, dermoplasty, rhinoplasty, plater, plasticity, plastid\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "leader\n", 
+        "question": "Stem: agog\n\nExamples: demagogue, pedagogue, synagogue, agogics, pedagogy, mystatgogue\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "small\n", 
+        "question": "Stem: cle\n\nExamples: molecule, corpuscle, follicle, minuscule, ventricle, particle, vesicle\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "not\n", 
+        "question": "Stem: il\n\nExamples: illegal, illiterate, illicit, illogical, illegible, illiberal\n\nOrigin: Latin\n\n"
+    }
+],
 "Lesson 18":
 [
     {
