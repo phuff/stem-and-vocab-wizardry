@@ -1,5 +1,91 @@
 var flashcards = 
     {
+"Lesson 20":
+[
+    {
+        "answer": "discard", 
+        "question": "To throw away\n"
+    }, 
+    {
+        "answer": "dispel", 
+        "question": "To rid one\u2019s mind of an idea\n"
+    }, 
+    {
+        "answer": "disperse", 
+        "question": "To scatter in different directions\n"
+    }, 
+    {
+        "answer": "displaced", 
+        "question": "Removed from a place\n"
+    }, 
+    {
+        "answer": "disqualify", 
+        "question": "To declare unfit to participate\n"
+    }, 
+    {
+        "answer": "evict", 
+        "question": "To force out of a place\n"
+    }, 
+    {
+        "answer": "excise", 
+        "question": "To cut out, or to remove as if by cutting\n"
+    }, 
+    {
+        "answer": "exile", 
+        "question": "a. Forced removal from one\u2019s country\nb. A person forced out of a country\nc. To force out of a country\n"
+    }, 
+    {
+        "answer": "extinguish", 
+        "question": "a. To put out a fire or a light\nb. To put an end to\n"
+    }, 
+    {
+        "answer": "purge", 
+        "question": "Purify; completely get rid of something harmful\n"
+    }
+],
+"Lesson 19": 
+[
+    {
+        "answer": "buttress", 
+        "question": "a.  A support built against a wall for reinforcement\nb.  To support; to reinforce\n"
+    }, 
+    {
+        "answer": "defensible", 
+        "question": "Capable of being protected or defended\n"
+    }, 
+    {
+        "answer": "durable", 
+        "question": "Sturdy or long-lasting\n"
+    }, 
+    {
+        "answer": "fortify", 
+        "question": "To strengthen or make secure\n"
+    }, 
+    {
+        "answer": "invigorate", 
+        "question": "To fill with life, energy, or strength\n"
+    }, 
+    {
+        "answer": "potent", 
+        "question": "Powerful; strong\n"
+    }, 
+    {
+        "answer": "quell", 
+        "question": "a.  To put down by force; to overpower\nb.  To clam something\n"
+    }, 
+    {
+        "answer": "recalcitrant", 
+        "question": "Stubbornly refusing to do something; not following orders\n"
+    }, 
+    {
+        "answer": "resistant", 
+        "question": "a.  Opposed to or defending against\nb.  Not giving in; able to withstand or remain the same despite outside forces\n"
+    }, 
+    {
+        "answer": "valor", 
+        "question": "Courage or boldness\n"
+    }
+],
 "Unit 7":
 [
     {
