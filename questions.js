@@ -1,5 +1,91 @@
 var flashcards = 
     {
+"Lesson 22":
+[
+    {
+        "answer": "acrophobia", 
+        "question": "Intense fear of high places\n"
+    }, 
+    {
+        "answer": "agoraphobia", 
+        "question": "Intense fear of open or public places\n"
+    }, 
+    {
+        "answer": "ailurophobia", 
+        "question": "Great fear or hatred of cats\n"
+    }, 
+    {
+        "answer": "Anglophile", 
+        "question": "A person who has great admiration or fondness for England and its people\n"
+    }, 
+    {
+        "answer": "audiophile", 
+        "question": "A person very interested in the quality or sound reproduction\n"
+    }, 
+    {
+        "answer": "bibliophile", 
+        "question": "A person who loves, and often collects, books\n"
+    }, 
+    {
+        "answer": "claustrophobia", 
+        "question": "An intense fear of being in small or enclosed spaces\n"
+    }, 
+    {
+        "answer": "hydrophobia", 
+        "question": "a. An intense fear of water\nb. The disease of rabies\n"
+    }, 
+    {
+        "answer": "xenophobia", 
+        "question": "Hatred or fear of foreign people and places\n"
+    }, 
+    {
+        "answer": "zoophobia", 
+        "question": "An intense fear of animals\n"
+    }
+],
+"Lesson 21":
+[
+    {
+        "answer": "annihilate", 
+        "question": "To destroy completely\n"
+    }, 
+    {
+        "answer": "contaminate", 
+        "question": "To make impure or unclean\n"
+    }, 
+    {
+        "answer": "corrode", 
+        "question": "a. To dissolve or gradually destroy a metal\nb. To cause to deteriorate gradually\n"
+    }, 
+    {
+        "answer": "curtail", 
+        "question": "To cut short or reduce\n"
+    }, 
+    {
+        "answer": "deplete", 
+        "question": "To use up or to empty out\n"
+    }, 
+    {
+        "answer": "deteriorate", 
+        "question": "To make or become worse; to weaken, decay, or diminish\n"
+    }, 
+    {
+        "answer": "extinct", 
+        "question": "No longer existing or living\n"
+    }, 
+    {
+        "answer": "negate", 
+        "question": "To make ineffective or invalid; to reverse\n"
+    }, 
+    {
+        "answer": "rancid", 
+        "question": "Smelling or tasting like spoiled oils or fats\n"
+    }, 
+    {
+        "answer": "squander", 
+        "question": "a. To waste; to spend foolishly or uselessly\nb. To fail to take advantage of; to lose a good chance to do something\n"
+    }
+],
 "Lesson 20":
 [
     {
