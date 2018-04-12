@@ -1,5 +1,108 @@
 var flashcards = 
     {
+"Unit 8":
+[
+    {
+        "answer": "sit\n", 
+        "question": "Stem: sed\n\nExamples: sedentary, sediment, sedan, sedative, sedate, supersede, assiduous, insidious\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "read\n", 
+        "question": "Stem: leg\n\nExamples: legible, legend, illegible, legendary, legibility, alleged\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "mind\n", 
+        "question": "Stem: anim\n\nExamples: equanimity, animal, animated, animosity, magnanimous, animadversion\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "twist\n", 
+        "question": "Stem: tort\n\nExamples: contorted, torture, tortuous, retort, distort, torturous, tort\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "name\n", 
+        "question": "Stem: nym\n\nExamples: homonym, acronym, pseudonym, anonymous, patronymic, eponym\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "holy\n", 
+        "question": "Stem: sanct\n\nExamples: sanctity, sanctimonious, sacrosanct, sanctuary, unsanctioned, sanctify\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "change\n", 
+        "question": "Stem: meta\n\nExamples: metamorphosis, metaphor, metaphysics, metastasize, metabolism\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "rock\n", 
+        "question": "Stem: petr\n\nExamples: petrify, petroleum, petrology, petroglyph, petrophilous, petrochemical\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "wonder\n", 
+        "question": "Stem: mir\n\nExamples: miracle, mirage, mirror, admire\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "hand\n", 
+        "question": "Stem: man\n\nExamples: manual, manicure, manipulate, manacles\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "right\n", 
+        "question": "Stem: rect\n\nExamples: correct, rectitude, direct, rectilinear, rectangle, rectify, rector, erect\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "roll\n", 
+        "question": "Stem: volv\n\nExamples: revolve, involved, devolve, convoluted, revolution\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "half\n", 
+        "question": "Stem: demi\n\nExamples: demigod, demitasse, demisemiquaver, demimonde\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "feel\n", 
+        "question": "Stem: sens\n\nExamples: sense, sensitive, sensation, sensory, extrasensory, insensate\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "make\n", 
+        "question": "Stem: fy\n\nExamples: fortify, rectify, horrify, solidify, sanctify, pacify\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "eye\n", 
+        "question": "Stem: ocul\n\nExamples: binocular, monocular, ocular, oculist, oculomotor nerve, oculometer\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "care for\n", 
+        "question": "Stem: cur\n\nExamples: cure, curator, curative, cure-all, sinecure, secure, curate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "beyond\n", 
+        "question": "Stem: ultra\n\nExamples: ultramarine, ultraconservative, ultraviolet, ultramundane\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "appearance\n", 
+        "question": "Stem: oid\n\nExamples: android, anthropoid, asteroid, adenoid, xyloid, haploid\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "carry\n", 
+        "question": "Stem: gest\n\nExamples: gestation, digest, ingest, congestion, gesticulate, gesture\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "fit\n", 
+        "question": "Stem: apt\n\nExamples: adapt, aptitude, maladapted, adaptation, aptly, aptness\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "touch\n", 
+        "question": "Stem: tact\n\nExamples: tactile, contact, tactful, intact, tactility, taction\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "voice\n", 
+        "question": "Stem: voc\n\nExamples: vociferously, vocal, invocation, vocabulary, convocation\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "laugh\n", 
+        "question": "Stem: rid\n\nExamples: ridicule, deride, derision, risibility, ridiculous\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "backward\n", 
+        "question": "Stem: retro\n\nExamples: retroactive, retrofire, retrogress, retrospection, retrofit, retrorse\n\nOrigin: Latin\n\n"
+    }
+],
 "Lesson 22":
 [
     {
