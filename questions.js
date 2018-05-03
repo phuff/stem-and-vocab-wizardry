@@ -1,5 +1,278 @@
 var flashcards = 
     {
+"Lesson 26": [
+    {
+        "answer": "commotion", 
+        "question": "A disturbance\n"
+    }, 
+    {
+        "answer": "demotion", 
+        "question": "A lowering of a position, rank, or grade level\n"
+    }, 
+    {
+        "answer": "immobilize", 
+        "question": "To make something unable to move\n"
+    }, 
+    {
+        "answer": "locomotion", 
+        "question": "Movement; the power to move\n"
+    }, 
+    {
+        "answer": "mobile", 
+        "question": "Able to be moved\n"
+    }, 
+    {
+        "answer": "momentary", 
+        "question": "Lasting for only an instant\n"
+    }, 
+    {
+        "answer": "momentum", 
+        "question": "Force or speed of motion\n"
+    }, 
+    {
+        "answer": "motive", 
+        "question": "A reason for an action\n"
+    }, 
+    {
+        "answer": "promotion", 
+        "question": "a. Advancement to a higher position, rank, or grade level\nb. Publicity for a cause or a product; sale\n"
+    }, 
+    {
+        "answer": "remote", 
+        "question": "a. Located far away in time or space\nb. Unlikely; very improbable\n"
+    }
+],
+"Lesson 25": [
+    {
+        "answer": "antibiotic", 
+        "question": "A substance that can kill, weaken, or slow the growth of bacteria\n"
+    }, 
+    {
+        "answer": "biopsy", 
+        "question": "The removal and study of tissue from a living thing to diagnose illness\n"
+    }, 
+    {
+        "answer": "biosphere", 
+        "question": "The areas of Earth that can support life\n"
+    }, 
+    {
+        "answer": "devitalize", 
+        "question": "To weaken or destroy the strength or energy of\n"
+    }, 
+    {
+        "answer": "microbe", 
+        "question": "A life form so small it can only be seen with a microscope\n"
+    }, 
+    {
+        "answer": "revive", 
+        "question": "a. To bring back to consciousness, life, or health\nb. To bring back into use\n"
+    }, 
+    {
+        "answer": "symbiosis", 
+        "question": "A close relationship among two or more living things, in which all involved benefit\n"
+    }, 
+    {
+        "answer": "viable", 
+        "question": "a. Capable of living and developing\nb. Workable; effective\n"
+    }, 
+    {
+        "answer": "vitality", 
+        "question": "Health and energy\n"
+    }, 
+    {
+        "answer": "vivd", 
+        "question": "a. Bright and easily noticed\nb. Strong; clear; lifelike\n"
+    }
+],
+"Unit Nine":
+[
+    {
+        "answer": "feeling\n", 
+        "question": "Stem: path\n\nExamples: sympahty, pathetic, pathos, telepathy, empathy, apathy, idiopathy\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "not\n", 
+        "question": "Stem: a-\n\nExamples: amoral, amorphous, atheist, apathy, agraphia, apolitical, aphasia, achromatic\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "law\n", 
+        "question": "Stem: nomy\n\nExamples: astronomy, economy, Deuteronomy, taxonomy, heteronomy, nomothetic\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "faith\n", 
+        "question": "Stem: fid\n\nExamples: infidel, fidelity, confidence, diffident, bona fide, fiduciary, peridy\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "bad\n", 
+        "question": "Stem: caco\n\nExamples: cacophony, cocography, cacodemon, cacology, cacodyl\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "different\n", 
+        "question": "Stem: hetero\n\nExamples: heterodox, heteromorphic, heterogeneous, heterosexual, heteronym\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "know\n", 
+        "question": "Stem: sci\n\nExamples: science, conscience, prescience, omniscience\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "write\n", 
+        "question": "Stem: graph\n\nExamples: bibliography, photograph, autograph, polygraph, stenography\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "side\n", 
+        "question": "Stem: lat\n\nExamples: bilateral, unilateral, lateral fin, collateral, latitude\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "rock\n", 
+        "question": "Stem: lith\n\nExamples: neolithic, Paleolithic, lithograph, megalith, monolith, lithium\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "pull\n", 
+        "question": "Stem: tract\n\nExamples: tractor, detract, retraction, attractive, protractor, contract, traction\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "in or not\n", 
+        "question": "Stem: in\n\nExamples: inscribe, insane, infidel, indefinite, incorrigible, insomnia\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "together\n", 
+        "question": "Stem: co\n\nExamples: cooperate, coordinate, cotangent, colloguy, coauthor\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "love\n", 
+        "question": "Stem: phile\n\nExamples: philosopher, audiophile, bibliophile, philanthropy\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "nature of\n", 
+        "question": "Stem: ine\n\nExamples: porcine, crystalline, canine, ursine, vulpine, bovine\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "relating to\n", 
+        "question": "Stem: -ar\n\nExamples: pulsar, stellar, lunar, solar, secular, columnar, linear, circular\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "six\n", 
+        "question": "Stem: hexa\n\nExamples: hexagram, hexagon, hexapod, hexahedron\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "break\n", 
+        "question": "Stem: fract\n\nExamples: fracture, infraction, fraction, refraction, refractory\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "flat\n", 
+        "question": "Stem: platy\n\nExamples: plateau, platypus, plate, platitude\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "god\n", 
+        "question": "Stem: theo\n\nExamples: theology, pantheism, atheism, monotheism, apotheosis, henotheism\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "end\n", 
+        "question": "Stem: fin\n\nExamples: final, define, infinite, finial, infinitive\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "sided object\n", 
+        "question": "Stem: hedron\n\nExamples: polyhedron, tetrahedron, heptahedron, octahedron, icosahedron\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "walk\n", 
+        "question": "Stem: ambul\n\nExamples: ambulatory, ambulance, perambulate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "full of\n", 
+        "question": "Stem: ous\n\nExamples: luminous, glorious, vivacious, zealous\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "place\n", 
+        "question": "Stem: topo\n\nExamples: topographical, topology, topic, topiary\n\nOrigin: Greek\n\n"
+    }
+],
+"Lesson 24":
+[
+    {
+        "answer": "affluent", 
+        "question": "Rich; wealthy\n"
+    }, 
+    {
+        "answer": "deflect", 
+        "question": "To turn aside or redirect; to cause to go in another direction\n"
+    }, 
+    {
+        "answer": "flex", 
+        "question": "a. To bend\nb. To contract a muscle\n"
+    }, 
+    {
+        "answer": "fluctuate", 
+        "question": "To rise and fall; to change irregularly\n"
+    }, 
+    {
+        "answer": "fluid", 
+        "question": "a. A substance that flows, often taking the shape of its container\nb. Having smooth, flowing motion; graceful\nc. Easily changed\n"
+    }, 
+    {
+        "answer": "flume", 
+        "question": "a. A narrow passage with deep rocky sides and water flowing through it\nb. A man-made channel or chute for flowing water\n"
+    }, 
+    {
+        "answer": "inflexible", 
+        "question": "a. Not easily bent; stiff\nb. Not changeable\n"
+    }, 
+    {
+        "answer": "influential", 
+        "question": "Having the power and importance to affect something\n"
+    }, 
+    {
+        "answer": "influx", 
+        "question": "A flowing or coming in\n"
+    }, 
+    {
+        "answer": "reflex", 
+        "question": "a. The ability to react quickly to actions or events\nb. An automatic physical response\n"
+    }
+],
+"Lesson 23":
+[
+    {
+        "answer": "calligraphy", 
+        "question": "The art of fine handwriting; decorative handwriting\n"
+    }, 
+    {
+        "answer": "cartography", 
+        "question": "The technique or art of making maps or charts\n"
+    }, 
+    {
+        "answer": "demography", 
+        "question": "The study of characteristics of human populations, such as size, growth, or age\n"
+    }, 
+    {
+        "answer": "epigram", 
+        "question": "A short, clever poem or saying\n"
+    }, 
+    {
+        "answer": "graphic", 
+        "question": "a. A visual representation, such as a graph or picture\nb. Described in vivid and effective manner\n"
+    }, 
+    {
+        "answer": "holography", 
+        "question": "A photographic technique that produces a three-dimensional image\n"
+    }, 
+    {
+        "answer": "monogram", 
+        "question": "a. A design composed of single letter, usually initials\nb. To make a design of single letters, usually initials\n"
+    }, 
+    {
+        "answer": "monograph", 
+        "question": "A scholarly report on one subject\n"
+    }, 
+    {
+        "answer": "seismograph", 
+        "question": "An instrument for measuring and recording movements of the earth\u2019s crust\n"
+    }, 
+    {
+        "answer": "typography", 
+        "question": "The style and arrangement of text, either printed on paper or displayed on a screen\n"
+    }
+],
 "Unit 8":
 [
     {
