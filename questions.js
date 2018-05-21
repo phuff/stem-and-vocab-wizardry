@@ -112,12 +112,8 @@ var flashcards =
         "question": "To put in line; to make parallel\n"
     }, 
     {
-        "answer": "Toadjustthingssotheyrelatewelltoeachother", 
-        "question": "brink\n"
-    }, 
-    {
-        "answer": "Theedgeorwaterorofasteepplace", 
-        "question": "b.\tThe point at which something will happen; the verge\n"
+        "answer": "brink", 
+        "question": "a. The edge of water or of a steep place\nb. The point at which something will happen; the verge\n"
     }, 
     {
         "answer": "contour", 
