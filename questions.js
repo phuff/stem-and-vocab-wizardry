@@ -1,5 +1,199 @@
 var flashcards = 
     {
+"Unit 10": [
+    {
+        "answer": "foot or child\n", 
+        "question": "Stem: ped\n\nExamples: orthopedist, pedagogue, centipede, expedition, pedestrian, pedestal\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "death\n", 
+        "question": "Stem: mort\n\nExamples: mortal, mortician, mortified, immortality, mortuary\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "flesh\n", 
+        "question": "Stem: carn\n\nExamples: carnivorous, incarnate, reincarnated, carnival, carnation, carnage\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "soul\n", 
+        "question": "Stem: psych\n\nExamples: psychology, psychic, psychopathic, psychosis\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "race or culture\n", 
+        "question": "Stem: ethno\n\nExamples: ethnocentrism, ethnic group, ethnography, ethnologist\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "origin\n", 
+        "question": "Stem: gen\n\nExamples: genetics, hydrogen, progeny, engender, gene, ingenuous, indigenous\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "born\n", 
+        "question": "Stem: nat\n\nExamples: prenatal, native, natural, nativity, nation, natal, perinatal\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "old\n", 
+        "question": "Stem: paleo\n\nExamples: paleozoic, paleolithic, paleontologist, paleography\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "run\n", 
+        "question": "Stem: curs\n\nExamples: cursive, incursion, precursor, cursory, cursor\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "hidden\n", 
+        "question": "Stem: crypt\n\nExamples: cryptic, cryptologist, crypt, cryptogram, encrypt\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "fall\n", 
+        "question": "Stem: cad\n\nExamples: cascade, cadaver, cadence, cadenza, cadaverous, capitulum\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "head\n", 
+        "question": "Stem: capit\n\nExamples: decapitate, capital, recapitulate, capitulation, capitulum\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "talk\n", 
+        "question": "Stem: loqu\n\nExamples: loquacious, curcumlocution, eloquent, soliloquy\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "holy\n", 
+        "question": "Stem: sacro\n\nExamples: sacrosanct, sacred, sacrifice, sacrament, sacrilege, consecrate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "one\n", 
+        "question": "Stem: uni\n\nExamples: unicycle, universe, united, union, uniform, unison, unique, unicorn\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "quality\n", 
+        "question": "Stem: ness\n\nExamples: softness, redness, politeness, kindness, darkness, vagueness\n\nOrigin: Old English\n\n"
+    }, 
+    {
+        "answer": "high\n", 
+        "question": "Stem: alt\n\nExamples: altitude, alto, alitmeter, altar, altocumulus, altiplano\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "art\n", 
+        "question": "Stem: ics\n\nExamples: politics, economics, aesthetics, graphics, ethics, calisthenics\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "equal\n", 
+        "question": "Stem: iso\n\nExamples: isothermal, isometric, isosceles, isomer, isocracy, isotope\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "turn\n", 
+        "question": "Stem: vert\n\nExamples: convert, revert, inverted, divert, vertex, controvert, extrovert, introvert\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "cause\n", 
+        "question": "Stem: ate\n\nExamples: domesticate, implicate, create, procreate, insinuate, placate, dominate\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "heart\n", 
+        "question": "Stem: cor\n\nExamples: core, concord, discord, cordial, courageous\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "female\n", 
+        "question": "Stem: ess\n\nExamples: lioness, empress, princess, baroness, seamstress, governess\n\nOrigin: Greek\n\n"
+    }, 
+    {
+        "answer": "change\n", 
+        "question": "Stem: muta\n\nExamples: mutant, mutation, mutable, transmutation, immutable\n\nOrigin: Latin\n\n"
+    }, 
+    {
+        "answer": "flee\n", 
+        "question": "Stem: fug\n\nExamples: centrifuge, fugitive, subterfuge, refugee\n\nOrigin: Latin\n\n"
+    }
+],
+"Lesson 28": [
+    {
+        "answer": "adjacent", 
+        "question": "Next to; close to\n"
+    }, 
+    {
+        "answer": "align", 
+        "question": "To put in line; to make parallel\n"
+    }, 
+    {
+        "answer": "Toadjustthingssotheyrelatewelltoeachother", 
+        "question": "brink\n"
+    }, 
+    {
+        "answer": "Theedgeorwaterorofasteepplace", 
+        "question": "b.\tThe point at which something will happen; the verge\n"
+    }, 
+    {
+        "answer": "contour", 
+        "question": "a.\tThe outline of a shape or figure\nb.\tTo shape the edge\n"
+    }, 
+    {
+        "answer": "engulf", 
+        "question": "To swallow up or overwhelm\n"
+    }, 
+    {
+        "answer": "indentation", 
+        "question": "A small hole, dip, or impression made within something\n"
+    }, 
+    {
+        "answer": "periphery", 
+        "question": "The outside boundary of an area\n"
+    }, 
+    {
+        "answer": "solidify", 
+        "question": "To make or become firm or solid\n"
+    }, 
+    {
+        "answer": "symmetry", 
+        "question": "Balance; something that is the same on both sides of the center\n"
+    }, 
+    {
+        "answer": "tangible", 
+        "question": "Able to be touched; concrete; real\n"
+    }
+],
+"Lesson 27": [
+    {
+        "answer": "anachronism", 
+        "question": "Something that is out of its proper time in history\n"
+    }, 
+    {
+        "answer": "chronic", 
+        "question": "Lasting a very long time; continuing\n"
+    }, 
+    {
+        "answer": "chronicle", 
+        "question": "A record of events given in order of time\n"
+    }, 
+    {
+        "answer": "Torecordeventsintimeorder", 
+        "question": "4.\tchronological\n"
+    }, 
+    {
+        "answer": "Arrangedinorderoftime", 
+        "question": "5.\tcontemporary\n"
+    }, 
+    {
+        "answer": "a.Apersonlivingatthesametimeasanotherperson", 
+        "question": "b.\tExisting at the same time\n"
+    }, 
+    {
+        "answer": "extemporaneous", 
+        "question": "Unplanned; delivered with no preparation, or without notes\n"
+    }, 
+    {
+        "answer": "synchronize", 
+        "question": "To make things happen or work at the same time or rate\n"
+    }, 
+    {
+        "answer": "tempo", 
+        "question": "The speed of music or another activity\n"
+    }, 
+    {
+        "answer": "temporal", 
+        "question": "a.  Limited by time\nb.  Nonreligious\n"
+    }, 
+    {
+        "answer": "temporary", 
+        "question": "Not permanent; lasting for a limited time only\n"
+    }
+],
 "Lesson 26": [
     {
         "answer": "commotion", 
