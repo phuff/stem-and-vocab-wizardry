@@ -162,16 +162,12 @@ var flashcards =
         "question": "A record of events given in order of time\n"
     }, 
     {
-        "answer": "Torecordeventsintimeorder", 
-        "question": "4.\tchronological\n"
+        "answer": "chronological", 
+        "question": "Arranged in order of time"
     }, 
     {
-        "answer": "Arrangedinorderoftime", 
-        "question": "5.\tcontemporary\n"
-    }, 
-    {
-        "answer": "a.Apersonlivingatthesametimeasanotherperson", 
-        "question": "b.\tExisting at the same time\n"
+        "answer": "contemporary", 
+        "question": "a. A person living at the same time as another person\nExisting at the same time\n"
     }, 
     {
         "answer": "extemporaneous", 
